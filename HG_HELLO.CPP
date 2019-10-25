@@ -1,5 +1,7 @@
-#include <iostream>
-using namespace std;
-int main() {
-    cout<<"Hello World!";
+#include<stdio.h>
+
+void main()
+{
+printf("HELLO WORLD");
+getch();
 }
