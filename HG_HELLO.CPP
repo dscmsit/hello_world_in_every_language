@@ -27,6 +27,7 @@ cout<<"R";
 delay(100);
 cout<<"L";
 delay(100);
-cout<<"D"<<endl;
+cout<<"D";
+cout<<endl;
 getch();
 }
