@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+cout<<"hello world this is the beginning of the open source contribution from my side";
+return 0;
+}
