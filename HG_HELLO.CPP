@@ -1,11 +1,32 @@
 #include<iostream.h>
 #include<conio.h>
-void main() 
+#include<dos.h>
+void main()
 {
+clrscr();
 textcolor(5);
 textbackground(139);
 clrscr();
-
-cout<<"HELLO WORLD"<<endl;
+cout<<"H";
+delay(100);
+cout<<"E";
+delay(100);
+cout<<"L";
+delay(100);
+cout<<"L";
+delay(100);
+cout<<"O";
+delay(100);
+cout<<" ";
+delay(100);
+cout<<"W";
+delay(100);
+cout<<"O";
+delay(100);
+cout<<"R";
+delay(100);
+cout<<"L";
+delay(100);
+cout<<"D"<<endl;
 getch();
 }
