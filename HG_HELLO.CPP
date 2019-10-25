@@ -1,8 +1,7 @@
-#include<iostream.h>
-#include<conio.h>
-void main() 
+#include<stdio.h>
+
+void main()
 {
-clrscr();
-cout<<"HELLO WORLD"<<endl;
+printf("HELLO WORLD");
 getch();
 }
