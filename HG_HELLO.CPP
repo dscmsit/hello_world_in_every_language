@@ -1,33 +1,5 @@
-#include<iostream.h>
-#include<conio.h>
-#include<dos.h>
-void main()
-{
-clrscr();
-textcolor(5);
-textbackground(139);
-clrscr();
-cout<<"H ";
-delay(100);
-cout<<"E ";
-delay(100);
-cout<<"L ";
-delay(100);
-cout<<"L ";
-delay(100);
-cout<<"O ";
-delay(100);
-cout<<"  ";
-delay(100);
-cout<<"W ";
-delay(100);
-cout<<"O ";
-delay(100);
-cout<<"R ";
-delay(100);
-cout<<"L ";
-delay(100);
-cout<<"D ";
-cout<<endl;
-getch();
+#include <iostream>
+using namespace std;
+int main() {
+    cout<<"Hello World!";
 }
