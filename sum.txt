@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+ {
+  int a,b,sum=0;
+  cout<<"enter the first number"\n;
+  cin>>a;
+  cout<<"entert the second number"\n;
+  cin>>b;
+  sum=a+b;
+  cout<<"sum of both the numbers="\tsum;
+  getch();
+ }
