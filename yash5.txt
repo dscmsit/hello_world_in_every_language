@@ -1,0 +1,12 @@
+#include<iostream.h>
+void main()
+{
+int n,i;
+int f = 1;
+cout<<"enter a number to find its factoorial";
+cin>>n
+for(i=1;i++;i<=n)
+{f = f*i;
+}
+cout<<"factorial="<<f;
+}
