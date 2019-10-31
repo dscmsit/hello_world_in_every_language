@@ -1,0 +1,8 @@
+#include<iostream.h>
+void main()
+ {
+  int x,y;
+cout<<"Enter two numbers whose sum you want to find";
+cin>>x>>y;
+Cout<<"sum="<<(x+y);
+ } 
